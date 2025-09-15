@@ -1,0 +1,11 @@
+diffusers==0.24.0
+einops==0.8.1
+numpy==1.24.4
+opencv_python==4.8.1.78
+opencv_python_headless==4.5.5.64
+Pillow==9.1.1
+Pillow==11.3.0
+safetensors==0.6.2
+torch==1.11.0+cu113
+torch_xla==2.8.1
+transformers==4.46.0
