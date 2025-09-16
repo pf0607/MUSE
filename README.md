@@ -1,6 +1,7 @@
 # MUSE
 
 Official codes of [MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion ](https://arxiv.org/abs/2508.14440) [ICCV2025].
+<img width="1838" height="748" alt="image" src="https://github.com/user-attachments/assets/968e6a31-4ed5-471a-b910-7f52e851d1ae" />
 
 ## Requirement
 
